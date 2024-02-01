@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="0.1.62.0">
+    <UserPlugin Name="Patch2PDFExporter" Version="0.0.0.0" Path="/MA3Patch2PDFExport">
+        <ComponentLua Name="Patch2PDFExporter" FileName="Patch2PDFExport.lua" />
+    </UserPlugin>
+</GMA3>
